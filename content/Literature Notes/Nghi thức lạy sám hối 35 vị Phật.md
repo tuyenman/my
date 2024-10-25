@@ -1,7 +1,5 @@
 ---
-Create date: 
 Source: 
-Context: 
 tags:
   - practice
 ---
