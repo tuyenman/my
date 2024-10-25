@@ -16,9 +16,6 @@ article h2 {
 	border-bottom: 1px solid #191621;
 	padding-bottom: 0.3em;
 }
-h2, h3 {
-	color: #bb9af7 ;
-}
 
 //Màu ô tìm kiếm
 .search-button p {
@@ -30,7 +27,8 @@ h2, h3 {
 
 //In nghiêng, đậm
 strong,
-footer a {
+footer a,
+.breadcrumb-container a {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	padding: 0;
@@ -43,14 +41,16 @@ em {
 }
 
 //Link
-article a.internal {
+article a.internal,
+article a.external {
 	border-bottom: 1px solid #764cd5d1;
 	background-color: transparent;
 	border-radius: 0;
 	color: #a68af9;
 	font-weight: normal;
 }
-article a.internal:hover {
+article a.internal:hover,
+article a.external:hover {
 	border-bottom: 1px solid #764cd5d1;
 	background-color: transparent;
 	border-radius: 0;
@@ -85,12 +85,18 @@ li::marker {
 }
 //blockquote
 blockquote {
-	border-left: 3px solid #764cd5d1;
+	border-left: 5px solid #764cd5d1;
+	margin: 0 1em;
+	background-color: #1c1536;
+	padding: 5px 20px;
+}
+
+blockquote p {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	color: #7aa2f7;
+	margin: 0;
+	font-style: italic;
 	background-color: #7aa2f7;
 	background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
-	margin: 0 1em;
-	font-style: italic;
 }

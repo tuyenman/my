@@ -12,7 +12,7 @@ Tên gọi của tông này dựa trên quan điểm quán sát Trung đạo, kh
 Nguyên văn tiếng Phạn
 
 >anirodham anutpādam anucchedam aśāśvataṃ | anekārtham anānārtham anāgamam anirgamaṃ
-
+>
 >yaḥ pratītyasamutpādaṃ prapañcopaśamaṃ śivaṃ | deśayāmāsa saṃbuddhas taṃ vande vadatāṃ varaṃ
 
 Dịch nghĩa

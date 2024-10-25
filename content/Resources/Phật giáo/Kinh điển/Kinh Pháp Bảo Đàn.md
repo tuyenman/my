@@ -4,10 +4,13 @@ tags:
   - wiki
 ---
 ---
-*Đôn Hoàng Bản*
+**Đôn Hoàng Bản**
+
 [[Huệ Năng|Lục tổ Huệ Năng]]
-*Bản dịch tiếng Việt: Hòa thượng Thích Mãn Giác*
-*Nhà Xuất Bản Tôn Giáo Hà Nội PL. 2547 - DL. 2003*
+
+Bản dịch tiếng Việt: Hòa thượng Thích Mãn Giác
+
+Nhà Xuất Bản Tôn Giáo Hà Nội PL. 2547 - DL. 2003
 
 Link Youtube: https://www.youtube.com/watch?v=ve0j4GA_a04
 
@@ -16,9 +19,9 @@ Link Youtube: https://www.youtube.com/watch?v=ve0j4GA_a04
 **NAM TÔNG ĐỐN GIÁO TỐI THƯỢNG THỪA**
 **MA HA BÁT NHÃ BA LA MẬT KINH**
 
-*Lục Tổ Đại sư Huệ Năng thí Pháp Đàn kinh, một quyển, ở chùa Đại Phạm, Thiều Châu.*
+Lục Tổ Đại sư Huệ Năng thí Pháp Đàn kinh, một quyển, ở chùa Đại Phạm, Thiều Châu.
 
-*Hoằng Pháp đệ tử, kiêm thọ Vô tướng giới đệ tử Pháp Hải biên tập.*
+Hoằng Pháp đệ tử, kiêm thọ Vô tướng giới đệ tử Pháp Hải biên tập.
 
 *Bản tìm được ở động Đôn Hoàng.*
 
