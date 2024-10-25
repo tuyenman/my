@@ -6,6 +6,7 @@ tags:
 ---
 ---
 **Key takeaway**
+
 Quán tưởng bản thân quay mặt về hướng Đông
 - Tên đỉnh đầu: Đức Phật [[A-di-đà]] - Đỏ
 - Bên Trái: Bất Không Thành Tựu Phật - Xanh lá cây

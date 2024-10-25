@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Universe by On",
+    pageTitle: "On's Universe",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'google', tagId: '<your-google-tag>',
     },
     locale: "en-US",
     baseUrl: "my.on.io.vn",
@@ -43,9 +43,9 @@ const config: QuartzConfig = {
           light: "#100e17",
           lightgray: "#191621",
           gray: "#646464",
-          darkgray: "#fbfbfb",
+          darkgray: "#bebebe",
           dark: "#f8fcff",
-          secondary: "#bebebe",
+          secondary: "#dadada",
           tertiary: "#a882ff",
           highlight: "#6439c77a",
           textHighlight: "#b3aa0288",
