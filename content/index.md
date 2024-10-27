@@ -18,4 +18,7 @@ Nguyên tắc thực hành ghi chú theo phương pháp Zettelkasten, [link tham
 	- Ý tưởng, ý nghĩ hoặc bất cứ thứ gì của bản thân, sau khi đã được tổng hợp từ các loại notes khác.
 	- Có thể cập nhật, thay đổi liên tục.
 
+**Important**
+- Ngoại trừ phần *Resource* - Hãy tóm tắt lại  đó theo ý hiểu chứ **KHÔNG** Copy
+
 Go on ...
