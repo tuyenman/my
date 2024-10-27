@@ -5,6 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  left: [
+    Component.DesktopOnly(Component.Explorer({
+      folderClickBehavior: "link",
+      useSavedState: true,
+    })),
+  ],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -27,7 +33,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      folderClickBehavior: "link",
+      useSavedState: true,
+    })),
   ],
   right: [
     Component.Graph(),
@@ -44,7 +53,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      folderClickBehavior: "link",
+      useSavedState: true,
+    })),
   ],
   right: [],
 }
