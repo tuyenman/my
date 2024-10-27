@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "On's Universe",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "My whole Universe, created by On!",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -69,7 +69,10 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ 
+        markdownLinkResolution: "shortest",
+        openLinksInNewTab: true,
+       }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
@@ -81,8 +84,8 @@ const config: QuartzConfig = {
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
+        enableSiteMap: false,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
